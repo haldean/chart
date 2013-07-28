@@ -3,7 +3,7 @@ package svgg
 import (
 	"fmt"
 	"github.com/ajstarks/svgo"
-	"github.com/vdobler/chart"
+	"github.com/haldean/chart"
 	"image/color"
 	"math"
 )

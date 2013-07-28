@@ -1,7 +1,7 @@
 package imgg
 
 import (
-	"github.com/vdobler/chart"
+	"github.com/haldean/chart"
 	"image"
 	"image/color"
 	"image/png"

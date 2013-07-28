@@ -6,7 +6,7 @@ import (
 	"code.google.com/p/freetype-go/freetype/raster"
 	"code.google.com/p/freetype-go/freetype/truetype"
 	"code.google.com/p/graphics-go/graphics"
-	"github.com/vdobler/chart"
+	"github.com/haldean/chart"
 	"image"
 	"image/color"
 	"image/draw"

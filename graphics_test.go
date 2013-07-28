@@ -2,8 +2,8 @@ package chart_test
 
 import (
 	"fmt"
-	"github.com/vdobler/chart"
-	"github.com/vdobler/chart/txtg"
+	"github.com/haldean/chart"
+	"github.com/haldean/chart/txtg"
 	"math"
 	"testing"
 )
